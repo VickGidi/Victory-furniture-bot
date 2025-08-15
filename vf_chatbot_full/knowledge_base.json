@@ -1,0 +1,190 @@
+[
+  {
+    "type": "product",
+    "name": "Bill Dining Set",
+    "category": "Dining",
+    "price": "Contact for price",
+    "url": "https://victoryfurniture.co.ke/product/bill",
+    "description": "Elegant and durable—turns every meal into a special moment.",
+    "keywords": ["bill", "bill dining", "dining set", "dining"]
+  },
+  {
+    "type": "product",
+    "name": "Richburg Dining Set",
+    "category": "Dining",
+    "price": "Contact for price",
+    "url": "https://victoryfurniture.co.ke/product/richburg",
+    "description": "Charming and sturdy dining set with timeless style.",
+    "keywords": ["richburg", "richburg dining", "dining set"]
+  },
+  {
+    "type": "product",
+    "name": "Martini Bedroom Set",
+    "category": "Bedroom",
+    "price": "Contact for price",
+    "url": "https://victoryfurniture.co.ke/product/martini",
+    "description": "Sleek lines with a cozy feel—an inviting, modern centerpiece for your bedroom.",
+    "keywords": ["martini", "martini bedroom", "bedroom set"]
+  },
+  {
+    "type": "product",
+    "name": "Model 9935 Luxury Bedroom Set",
+    "category": "Bedroom",
+    "price": "Contact for price",
+    "url": "https://victoryfurniture.co.ke/product/model-9935-luxury-bedroom-set",
+    "description": "A statement in elegance—premium design and comfort.",
+    "keywords": ["model 9935", "luxury bedroom", "bedroom set"]
+  },
+  {
+    "type": "product",
+    "name": "Wall Clock",
+    "category": "Home Decor",
+    "price": "Contact for price",
+    "url": "https://victoryfurniture.co.ke/product/wall-clock",
+    "description": "A stylish timepiece that doubles as wall art.",
+    "keywords": ["clock", "wall clock", "decor", "home decor"]
+  },
+  {
+    "type": "product",
+    "name": "Outdoor Chair",
+    "category": "Outdoor",
+    "price": "Contact for price",
+    "url": "https://victoryfurniture.co.ke/product/outdoor-chair",
+    "description": "Durable comfort for your patio or balcony.",
+    "keywords": ["outdoor chair", "garden chair", "patio"]
+  },
+  {
+    "type": "category",
+    "name": "Recliner Sofas",
+    "category": "Living Room",
+    "url": "https://victoryfurniture.co.ke/product-category/living-room/recliners?product_category=recliners",
+    "description": "Sink-in comfort for movies and relaxation.",
+    "keywords": ["recliner", "recliner sofa", "recliners"]
+  },
+  {
+    "type": "category",
+    "name": "Fabric Sofas",
+    "category": "Living Room",
+    "url": "https://victoryfurniture.co.ke/product-category/living-room/fabric-sofas?product_category=fabric-sofas",
+    "description": "Soft, comfortable fabric sofas in various styles.",
+    "keywords": ["fabric sofa", "fabric sofas", "sofa", "couch"]
+  },
+  {
+    "type": "category",
+    "name": "Leather Sofas",
+    "category": "Living Room",
+    "url": "https://victoryfurniture.co.ke/product-category/living-room/fabric-sofas?product_category=fabric-sofas",
+    "description": "Timeless leather sofas that are easy to maintain.",
+    "keywords": ["leather sofa", "leather sofas"]
+  },
+  {
+    "type": "category",
+    "name": "King Beds",
+    "category": "Bedroom",
+    "url": "https://victoryfurniture.co.ke/product-category/living-room/fabric-sofas?product_category=fabric-sofas",
+    "description": "Extra space to stretch and sleep comfortably.",
+    "keywords": ["king bed", "king size bed"]
+  },
+  {
+    "type": "category",
+    "name": "Queen Beds",
+    "category": "Bedroom",
+    "url": "https://victoryfurniture.co.ke/product-category/bedroom/queen-bed?product_category=queen-bed",
+    "description": "Just-right balance of comfort and space.",
+    "keywords": ["queen bed", "queen size bed"]
+  },
+  {
+    "type": "category",
+    "name": "Single Beds",
+    "category": "Bedroom",
+    "url": "https://victoryfurniture.co.ke/product-category/bedroom/single-bed?product_category=single-bed",
+    "description": "Cozy and compact beds, great for kids and guests.",
+    "keywords": ["single bed", "single beds"]
+  },
+  {
+    "type": "category",
+    "name": "Mattresses",
+    "category": "Bedroom",
+    "url": "https://victoryfurniture.co.ke/product-category/mattresses?product_category=mattresses",
+    "description": "Supportive and comfortable mattresses.",
+    "keywords": ["mattress", "mattresses"]
+  },
+  {
+    "type": "category",
+    "name": "Bedroom Occasional",
+    "category": "Bedroom",
+    "url": "https://victoryfurniture.co.ke/product-category/bedroom/occasional?product_category=occasional",
+    "description": "Nightstands and bedroom accent pieces.",
+    "keywords": ["occasional", "nightstand", "bedside table"]
+  },
+  {
+    "type": "category",
+    "name": "Flowers (Home Decor)",
+    "category": "Home Decor",
+    "url": "https://victoryfurniture.co.ke/product-category/home-decor/flowers?product_category=flowers",
+    "description": "Floral decor to brighten your room.",
+    "keywords": ["flowers", "floral", "vase", "decor"]
+  },
+  {
+    "type": "category",
+    "name": "Breakout",
+    "category": "Office",
+    "url": "https://victoryfurniture.co.ke/product-category/breakout?product_category=breakout",
+    "description": "Casual seating for huddles and waiting areas.",
+    "keywords": ["breakout", "breakout seating"]
+  },
+  {
+    "type": "category",
+    "name": "Visitors Chairs",
+    "category": "Office",
+    "url": "https://victoryfurniture.co.ke/product-category/breakout?product_category=breakout",
+    "description": "Comfortable visitor and guest chairs.",
+    "keywords": ["visitor chair", "visitors chairs", "visitors"]
+  },
+  {
+    "type": "category",
+    "name": "Office Chairs",
+    "category": "Office",
+    "url": "https://victoryfurniture.co.ke/product-category/office/chairs-office?product_category=chairs-office",
+    "description": "Ergonomic chairs for all-day comfort.",
+    "keywords": ["office chair", "office chairs", "ergonomic chair"]
+  },
+  {
+    "type": "category",
+    "name": "Workstations",
+    "category": "Office",
+    "url": "https://victoryfurniture.co.ke/product-category/office/chairs-office?product_category=chairs-office",
+    "description": "Desks and workstation setups for teams.",
+    "keywords": ["workstation", "workstations", "desk"]
+  },
+  {
+    "type": "info",
+    "name": "About Us",
+    "category": "Info",
+    "url": "https://victoryfurniture.co.ke/about-us",
+    "description": "Welcome to Victory Furniture — we turn your space into a haven of style and comfort. We offer a diverse range of furniture for every room at affordable prices."
+  },
+  {
+    "type": "social",
+    "name": "Facebook",
+    "url": "https://www.facebook.com/people/Victory-Furniture-Ke/61562878287913/",
+    "description": "Follow us on Facebook for new arrivals and offers."
+  },
+  {
+    "type": "social",
+    "name": "Instagram",
+    "url": "https://www.instagram.com/victory_furniture_ke/",
+    "description": "See our latest setups on Instagram."
+  },
+  {
+    "type": "branches",
+    "name": "Store Locations",
+    "items": [
+      {"city": "Nakuru", "place": "Nmall Plaza, Kenyatta Avenue", "tel": "0729856769"},
+      {"city": "Nakuru", "place": "Vicmark Plaza, Government Road", "tel": "0748578515"},
+      {"city": "Nairobi", "place": "Ciata Mall, Kiambu Road", "tel": "0707681684"},
+      {"city": "Eldoret", "place": "Rupas Mall", "tel": "0702198186"},
+      {"city": "Meru", "place": "Greencity Mall", "tel": "0748578516"}
+    ]
+  }
+]
